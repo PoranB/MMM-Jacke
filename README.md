@@ -32,7 +32,7 @@ If you feel like the thumb isn't displaying your preferences for when to wear a 
 			(temp <= 18 && windStrength <= 60) ||
 			(temp >= 19 && windStrength >= 18) ||
 			(temp >= 32 && windStrength >= 50) ||
-      (temp <= 25 && windStrength >= 35)
+      			(temp <= 25 && windStrength >= 35)
 		);
 
 		var checkThumbsMiddle = (
