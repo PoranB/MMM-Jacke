@@ -15,7 +15,7 @@ This Magic Mirror² Module allows the user to connect to their weatherapi.com ac
 			config: {
 				apiBaseUrl: "https://api.weatherapi.com/v1/current.json",
 				apiKey: "[YOUR_API_KEY]",
-        location: "[YOUR_PREFERED_LOCATION]"
+        		location: "[YOUR_PREFERED_LOCATION]"
 			}
 		}, 
 4. Copy and paste your own API Key and your prefered location 
